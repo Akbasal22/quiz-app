@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akbasal22/quiz-app/static/css/main.0498c664.css",
+    "main.js": "/Akbasal22/quiz-app/static/js/main.a80b55e1.js",
+    "static/js/453.fc01f49c.chunk.js": "/Akbasal22/quiz-app/static/js/453.fc01f49c.chunk.js",
+    "index.html": "/Akbasal22/quiz-app/index.html",
+    "main.0498c664.css.map": "/Akbasal22/quiz-app/static/css/main.0498c664.css.map",
+    "main.a80b55e1.js.map": "/Akbasal22/quiz-app/static/js/main.a80b55e1.js.map",
+    "453.fc01f49c.chunk.js.map": "/Akbasal22/quiz-app/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0498c664.css",
+    "static/js/main.a80b55e1.js"
+  ]
+}
